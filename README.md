@@ -3,7 +3,7 @@
 
 # Introduction
 
-Ce projet présente une analyse de données réalisée en laboratoire utilisant Python et Jupyter Notebook. L'objectif de l'analyse est de [décrire l'objectif de l'analyse]. Le projet comprend la collecte, le nettoyage, l'exploration et la visualisation des données, ainsi que l'extraction de conclusions et de recommandations.
+Ce projet présente une analyse de données réalisée en laboratoire utilisant Python et Jupyter Notebook. L'objectif de l'analyse est de l'exploration des donées. Le projet comprend la collecte, le nettoyage, l'exploration et la visualisation des données, ainsi que l'extraction de conclusions et de recommandations.
 
 # Technologies utilisées
 
@@ -11,7 +11,7 @@ Python : Langage de programmation généraliste pour l'analyse de données.
 Jupyter Notebook : Environnement interactif pour le développement et l'exécution de code Python.
 Données
 
-Les données utilisées dans cette analyse proviennent de un labo. Le jeu de données contient [décrire le nombre de lignes, de colonnes et les types de données].
+Les données utilisées dans cette analyse proviennent de un laboratoire. Le jeu de données contient differentes dates enregistrement, type essai, etc.
 
 # Analyse
 
@@ -36,4 +36,4 @@ Des conclusions et des recommandations ont été tirées sur la base de l'analys
 
 # Contributions
 
-Toute contribution à ce projet est la bienvenue. Si vous souhaitez contribuer, vous pouvez le faire en suivant les instructions du dépôt GitHub.
+Toute contribution à ce projet est la bienvenue.
