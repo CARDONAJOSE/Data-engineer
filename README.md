@@ -36,4 +36,4 @@ Des conclusions et des recommandations ont été tirées sur la base de l'analys
 
 # Contributions
 
-Toute contribution à ce projet est la bienvenue.
+Toute contribution à ce projet est bienvenue.
